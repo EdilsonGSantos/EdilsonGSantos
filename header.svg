@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="600" viewBox="0 0 1440 600" role="img" aria-labelledby="title desc">
+  <title id="title">Edilson Gomes | Full Stack Developer</title>
+  <desc id="desc">Desenvolvedor desde 2023, com participação em projetos web e mobile e foco em frontend. TypeScript, React, Next.js e Node.js.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#202a29"/><stop offset="1" stop-color="#101718"/></linearGradient>
+  </defs>
+  <rect width="1440" height="600" rx="20" fill="#101516"/>
+  <path d="M1030 0H1440V600H1270Z" fill="#baf760" opacity=".025"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="66" y="67" fill="#c3f86b" font-size="17" font-weight="700" letter-spacing="3">EDILSONGSANTOS</text>
+    <text x="1376" y="67" text-anchor="end" fill="#99a6a4" font-size="16" letter-spacing="2">WEB / MOBILE</text>
+    <text x="60" y="222" fill="#f2f4ee" font-size="98" font-weight="750" letter-spacing="-6">Edilson Gomes</text>
+    <text x="64" y="294" fill="#c3f86b" font-size="49" font-weight="700" letter-spacing="-1.5">Full Stack Developer</text>
+    <text x="66" y="353" fill="#bac5c2" font-size="23">Desde 2023 em projetos web e mobile. Foco em frontend.</text>
+    <g transform="translate(66 400)" font-size="17" fill="#e0e7dd">
+      <rect width="124" height="41" rx="7" fill="#212a29"/><text x="62" y="27" text-anchor="middle">TypeScript</text>
+      <rect x="135" width="85" height="41" rx="7" fill="#212a29"/><text x="177.5" y="27" text-anchor="middle">React</text>
+      <rect x="231" width="95" height="41" rx="7" fill="#212a29"/><text x="278.5" y="27" text-anchor="middle">Next.js</text>
+      <rect x="337" width="99" height="41" rx="7" fill="#212a29"/><text x="386.5" y="27" text-anchor="middle">Node.js</text>
+    </g>
+    <g transform="translate(1090 152)">
+      <rect x="30" y="-10" width="212" height="267" rx="23" fill="none" stroke="#c3f86b" stroke-opacity=".18" transform="rotate(12 136 123)"/>
+      <rect width="212" height="267" rx="23" fill="url(#panel)" stroke="#46544b"/>
+      <circle cx="24" cy="26" r="4" fill="#c3f86b"/><circle cx="39" cy="26" r="4" fill="#58645c"/><circle cx="54" cy="26" r="4" fill="#58645c"/>
+      <path d="M0 50h212" stroke="#38453f"/>
+      <path d="m73 104-36 34 36 34m65-68 36 34-36 34m-18-81-27 92" fill="none" stroke="#c3f86b" stroke-width="9" stroke-linecap="square" stroke-linejoin="miter"/>
+      <text x="24" y="235" fill="#9aa89e" font-size="13" font-family="monospace" letter-spacing="2">BUILD. REFINE. SHIP.</text>
+    </g>
+    <path d="M66 497h1308" stroke="#33403a"/>
+    <text x="66" y="547" fill="#b9c6be" font-size="17">FELPSTECH <tspan fill="#65766b"> / </tspan> UBERABA, MG</text>
+    <text x="1374" y="547" text-anchor="end" fill="#8d9e94" font-size="17">ANÁLISE E DESENVOLVIMENTO DE SISTEMAS · UNIUBE</text>
+  </g>
+</svg>
