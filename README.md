@@ -10,7 +10,7 @@
 
 ## Full stack na atuação. Frontend no foco.
 
-Sou **Edilson Gomes**, desenvolvedor na **FelpsTech**, em Uberaba, MG. Trabalho com programação **desde 2023** e, nesse caminho, já participei de **projetos web e mobile**.
+Sou **Edilson Gomes**, desenvolvedor na **[FelpsTech](https://www.felpstech.com/)**, em Uberaba, MG. Trabalho com programação **desde 2023** e, nesse caminho, já participei de **projetos web e mobile**.
 
 O frontend é a parte do desenvolvimento à qual mais me dedico. É onde o código encontra quem usa o produto: na navegação, na resposta de uma interação e nos detalhes que tornam uma tela mais clara. Gosto dessa proximidade entre construção técnica e experiência de uso.
 
@@ -36,7 +36,12 @@ Também valorizo código que possa ser entendido e evoluído. Para mim, desenvol
 
 **Desde 2023** · Atuação em desenvolvimento e participação em projetos web e mobile.
 
-**Atualmente** · Desenvolvedor full stack na **FelpsTech**, em **Uberaba, MG**, com foco em frontend.
+**Atualmente** · Desenvolvedor full stack na **[FelpsTech](https://www.felpstech.com/)**, em **Uberaba, MG**, com foco em frontend.
 
 **Formação** · Graduado em **Análise e Desenvolvimento de Sistemas pela Uniube**.
 
+---
+
+### Vamos conversar
+
+Tem um projeto web ou mobile em mente, uma oportunidade ou quer trocar uma ideia sobre desenvolvimento? Você pode me encontrar no **[LinkedIn](https://www.linkedin.com/in/EdilsonGSantos)** ou escrever para **[edilson.gs1602@gmail.com](mailto:edilson.gs1602@gmail.com)**.
